@@ -1,1 +1,1 @@
-My website is good <a href="https://lockea.neocities.org">This is a link to another website</a>
+My website is good <a href="https://lockea.neocities.org">This is a link to my website</a>
